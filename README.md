@@ -1,5 +1,5 @@
 # 100DaysOfCode
-### Code for at least an hour daily, but more focused on Java and Automation
+### Code for at least an hour daily, or resolve a java excercise, but more focused on Java for Automation
 
 ## About
 This is a personal challenge, everyone is free to join, my goal is to dive into  
@@ -19,7 +19,7 @@ projects you work on as well in joining me for the challenge. Just include your 
 ### Week 1
 #### **Java Basics**
 
-[day 1]  |  [day 2]  |  [day 3]  |  [day 4]  |  [day 5]  |  [day 6]  |  [day 7]
+[day 1][d1]  |  [day 2]  |  [day 3]  |  [day 4]  |  [day 5]  |  [day 6]  |  [day 7]
 
 ### Week 2
 [day 8]  |  [day 9]  |  [day 10] |  [day 11] |  [day 12] |  [day 13] |  [day 14]
@@ -66,3 +66,9 @@ projects you work on as well in joining me for the challenge. Just include your 
 ## Contributors
 Me: /CesBear
 * Project [repo link](http://github.com/CesBear/100DaysOfCodeJava "100 Days of Code in Java").
+
+
+
+
+
+[d1]: https://github.com/CesBear/100DaysOfCodeJava/blob/master/Week1/Day1.md "Day 1 Excercise"
