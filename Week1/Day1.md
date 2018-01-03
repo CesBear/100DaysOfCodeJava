@@ -4,7 +4,8 @@
 
 Write a Java program that takes a number as input and prints its multiplication table upto 10.  
 
-**Test Data:**  
+**Test Data:**
+
     Input a number: 5  (Example)
     Expected Output :
     5 x 1 = 5
