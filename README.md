@@ -3,7 +3,7 @@
 
 ## About
 This is a personal challenge, everyone is free to join, my goal is to dive into  
-Java programmming in order to understant the java language.
+Java programmming in order to understant the java language and practice on some automation tests.
 
 ## Specs
 For everyday code, I will post, update, and share a repo of what I did that day.
@@ -19,7 +19,7 @@ projects you work on as well in joining me for the challenge. Just include your 
 ### Week 1
 #### **Java Basics**
 
-[day 1][d1]  |  [day 2]  |  [day 3]  |  [day 4]  |  [day 5]  |  [day 6]  |  [day 7]
+[day 1][d1]  |  [day 2][d2]  |  [day 3][d3]  |  [day 4][d4] |  [day 5][d5]  |  [day 6][d6]  |  [day 7][d7]
 
 ### Week 2
 [day 8]  |  [day 9]  |  [day 10] |  [day 11] |  [day 12] |  [day 13] |  [day 14]
@@ -67,8 +67,10 @@ projects you work on as well in joining me for the challenge. Just include your 
 Me: /CesBear
 * Project [repo link](http://github.com/CesBear/100DaysOfCodeJava "100 Days of Code in Java").
 
-
-
-
-
-[d1]: https://github.com/CesBear/100DaysOfCodeJava/blob/master/Week1/Day1.md "Day 1 Excercise"
+[d1]: https://github.com/CesBear/100DaysOfCodeJava/blob/master/Week1/Day1.md "Excercise 1 of the Challenge"
+[d2]: https://github.com/CesBear/100DaysOfCodeJava/blob/master/Week1/Day2.md "Excercise 2 of the Challenge"
+[d3]: https://github.com/CesBear/100DaysOfCodeJava/blob/master/Week1/Day3.md "Excercise 3 of the Challenge"
+[d4]: https://github.com/CesBear/100DaysOfCodeJava/blob/master/Week1/Day4.md "Excercise 4 of the Challenge"
+[d5]: https://github.com/CesBear/100DaysOfCodeJava/blob/master/Week1/Day5.md "Excercise 5 of the Challenge"
+[d6]: https://github.com/CesBear/100DaysOfCodeJava/blob/master/Week1/Day6.md "Excercise 6 of the Challenge"
+[d7]: https://github.com/CesBear/100DaysOfCodeJava/blob/master/Week1/Day7.md "Excercise 7 of the Challenge"
