@@ -15,7 +15,5 @@ Write a Java program that takes a number as input and prints its multiplication 
     5 x 10 = 50
 	
 	
-	
-	Please create the program and don't forget to upload your solution.
-	
-	Thanks
+Please create the program and don't forget to upload your solution.
+Thanks
