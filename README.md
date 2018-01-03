@@ -10,7 +10,8 @@ For everyday code, I will post, update, and share a repo of what I did that day.
 
 
 ## How You Can Contribute
-I will link what I've done for the day below. You may wish to clone this repo and add your own links to projects you work on as well in joining me for the challenge. Just include your username, followed by a link to your own repo under **Contributers**.
+I will link what I've done for the day below. You may wish to clone this repo and add your own links to 
+projects you work on as well in joining me for the challenge. Just include your username, followed by a link to your own repo under **Contributers**.
 
 
 ## My Progress
@@ -64,4 +65,4 @@ I will link what I've done for the day below. You may wish to clone this repo an
 
 ## Contributors
 Me: /CesBear
-* Project [repo link](http://github.com/CesBear/100DaysOfCode).
+* Project [repo link](http://github.com/CesBear/100DaysOfCodeJava "100 Days of Code in Java").
